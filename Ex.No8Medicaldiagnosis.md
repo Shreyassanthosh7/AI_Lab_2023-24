@@ -1,4 +1,4 @@
-# Ex.No: 10  Logic Programming –  Medical Diagnosis Expert System
+# Ex.No: 8  Logic Programming –  Medical Diagnosis Expert System
 ### DATE:  28/10/2024                                                                          
 ### REGISTER NUMBER : 212222040155
 ### AIM: 
